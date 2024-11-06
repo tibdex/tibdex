@@ -1,4 +1,4 @@
-I'm a polyglot software engineer who likes working throughout the stack: from low-level performance optimizations all the way to beautiful and clear documentation, going through relentless automation and thoughtful API design.
+I'm a polyglot software engineer who likes working throughout the stack: from low-level performance optimizations all the way to beautiful and clear documentation, going through relentless automation, and thoughtful API design.
 
 The ideas that influenced my approach to software development the most (each in no particular order):
 
@@ -26,5 +26,5 @@ The ideas that influenced my approach to software development the most (each in 
 - [Practical Data Oriented Design — Andrew Kelley](https://www.youtube.com/watch?v=IroPQ150F6c)
 - [Biodigital Jazz! — Joran Dirk Greef](https://www.youtube.com/watch?v=C98cyJ-wJuY)
 - [Why Datomic — Stuart Halloway](https://docs.datomic.com/resources/videos.html#why-1)
-- [Mojo 🔥: a deep dive on ownership — Chris Lattner](https://www.youtube.com/watch?v=9ag0fPMmYPQ)
+- [Mojo: a deep dive on ownership — Chris Lattner](https://www.youtube.com/watch?v=9ag0fPMmYPQ)
 - [Debugging with the Scientific Method — Stuart Halloway](https://www.youtube.com/watch?v=FihU5JxmnBg)
