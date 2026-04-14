@@ -1,6 +1,6 @@
-I'm a polyglot software engineer who likes working throughout the stack: from low-level performance optimizations to web UIs, going through relentless automation, and thoughtful API design.
+I'm a software engineer who likes working across multiple languages and all parts of the stack: from low-level performance work to web UIs, with a lot of automation and API design in between.
 
-The ideas that influenced my approach to software development the most (each in no particular order):
+Here are some ideas that have shaped how I think about building software (in no particular order):
 
 ## 💡 Design principles
 
